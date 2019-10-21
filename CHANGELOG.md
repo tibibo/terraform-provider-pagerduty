@@ -1,4 +1,8 @@
-## 1.4.1 (Unreleased)
+## 1.5.0 (Unreleased)
+
+IMPROVEMENTS::
+* resource/pagerduty_service_integration: Add support for email_filter and  email_parser ([#88](https://github.com/terraform-providers/terraform-provider-pagerduty/issues/88))
+
 ## 1.4.0 (August 23, 2019)
 
 NOTES:
